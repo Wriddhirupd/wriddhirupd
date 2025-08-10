@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Wriddhirup 👋  
 
-<!--
-**Wriddhirupd/wriddhirupd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 💻 Cloud Engineer | Backend Developer (Go & Python)  
+- 🤖 Building AI agents & LangGraph workflows  
+- ☁️ Specializing in Kubernetes, AWS, Microservices Development, RAG, and LLM based apps  
+- 📈 Passionate about automation, optimization, and scaling AI systems  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+**Languages:** Go, Python, JavaScript, C++, Bash  
+**AI/ML:** LangChain, LangGraph, LLaMA, RAG, CrewAI, NLP. Spacy, NLTK, Sklearn  
+**Cloud & Infra:** Kubernetes, Docker, Terraform 
+**Databases and Cache:** PostgreSQL, Elasticsearch / Opensearch, DynamoDB, Redis
+**Tools:** GitHub Actions, Poetry, Jenkins   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects   
+- [**Real-time Log Anomaly Detector**](https://github.com/Wriddhirupd/log_anomaly_detection) – Redis Streams + LangGraph + LLaMA 3.2  
+
+## 📊 GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wriddhirupd&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wriddhirupd&layout=compact&theme=tokyonight)  
+
+## 📫 Let's Connect  
+[LinkedIn](https://www.linkedin.com/in/wriddhirup-dutta)
