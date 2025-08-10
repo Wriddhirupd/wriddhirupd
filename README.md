@@ -7,11 +7,11 @@
 - 📈 Passionate about automation, optimization, and scaling AI systems  
 
 ## 🛠 Tech Stack  
-**Languages:** Go, Python, JavaScript, C++, Bash  
-**AI/ML:** LangChain, LangGraph, LLaMA, RAG, CrewAI, NLP. Spacy, NLTK, Sklearn  
-**Cloud & Infra:** Kubernetes, Docker, Terraform 
-**Databases and Cache:** PostgreSQL, Elasticsearch / Opensearch, DynamoDB, Redis
-**Tools:** GitHub Actions, Poetry, Jenkins   
+- **Languages:** Go, Python, JavaScript, C++, Bash  
+- **AI/ML:** LangChain, LangGraph, LLaMA, RAG, CrewAI, NLP. Spacy, NLTK, Sklearn
+- **Cloud & Infra:** Kubernetes, Docker, Terraform
+- **Databases and Cache:** PostgreSQL, Elasticsearch / Opensearch, DynamoDB, Redis
+- **Tools:** GitHub Actions, Poetry, Jenkins   
 
 ## 📌 Featured Projects   
 - [**Real-time Log Anomaly Detector**](https://github.com/Wriddhirupd/log_anomaly_detection) – Redis Streams + LangGraph + LLaMA 3.2  
